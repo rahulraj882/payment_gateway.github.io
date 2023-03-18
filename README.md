@@ -20,11 +20,12 @@ A simple website where payment gateway is integrated.
 
 
 ## 🔗 Links
-[![Youtube](https://img.shields.io/badge/YOUTUBE-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://rahulraj882.github.io/payment_gateway.github.io/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raj-9501b2191/)
+[![Youtube](https://img.shields.io/badge/YOUTUBE-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
+
 
 
 
